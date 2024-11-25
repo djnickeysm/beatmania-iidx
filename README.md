@@ -39,6 +39,7 @@ For now, I have used the song's Japanese title as it was written but when using 
 Songs with "Drum'n'Bass," " Drum and Bass," DnB" and "Drum & Bass" etc.
 
 6. beatmania IIDX difficulty from 1 to 7+ from 6th through 9th style, 1 to 8 in 10th, 1 to 8+ in IIDX RED, and 1 to 12 from 12 HAPPY SKY onwards. However, this dataset will focus on the chart difficulty using the latest difficulty scale. It will also focus on charts that have been featured in its arcade release, so even though some songs did have a Beginner and Another difficulty option on its console (CS) appearance, it will not be included in the dataset.
+7. As of the release of 8th style dataset (dated 11/24/2024), I had to add a column that would include a Japanese written title (or a title with special letters or characters) as an alternative because I am still figuring out how R or SQL could recognize text written in a language that is not English. (This is completely experimental!)
 
 Important questions to ask as part of the showcase of skills:
 ** DATA CLEANSING **

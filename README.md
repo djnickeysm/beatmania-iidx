@@ -10,6 +10,8 @@ This is the dataset of ALL the songs and their charts from Japanese Rhythm game 
 -beatmania IIDX 5th style (4/11/2022)
 -beatmania IIDX 6th style (11/22/2024)
 -beatmania IIDX 7th style (11/23/2024)
+-beatmania IIDX 8th style (11/24/2024) 
+-(added dates of release for each version) (12/04/2024)
 
 When making this dataset, I often ask myself about what kind of rules does the set have to implement in order for it to be used for Data Analysis for SQL or Data Visualization Tools. 
 1. Normally, I could go for just Artist name, but the music producers that contribute to the game often use different names for some of their songs, which is why there are two columns used for the artists: The name used for the song and the credit, which is mostly the musician's real name. 
